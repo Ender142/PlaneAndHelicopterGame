@@ -1,0 +1,214 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (160313004-EndercanYilmaz-UcakHelikopter.vcxproj, Project2.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Projem.cpp
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(14,17): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(15,16): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(16,23): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(17,24): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(19,22): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(20,23): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(22,18): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(23,17): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(24,17): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(25,17): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(26,23): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(27,23): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(28,17): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(29,18): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(30,24): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(31,23): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(147,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(148,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(148,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(149,31): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(153,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(153,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(154,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(154,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(155,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(155,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(156,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(156,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(162,31): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(163,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(163,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(164,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(164,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(165,31): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(171,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(171,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(172,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(172,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(173,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(173,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(174,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(174,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(177,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(177,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(178,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(178,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(179,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(179,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(180,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(180,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(183,31): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(184,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(184,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(185,35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(185,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(186,31): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(188,5): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(188,110): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(206,5): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(206,112): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(224,5): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(224,114): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(242,5): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(242,112): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(260,5): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(260,112): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(290,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(292,32): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(293,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(293,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(297,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(297,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(298,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(298,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(299,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(299,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(300,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(300,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(306,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(306,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(307,32): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(308,32): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(309,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(309,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(315,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(315,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(316,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(316,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(317,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(317,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(318,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(318,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(321,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(321,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(322,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(322,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(323,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(323,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(324,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(324,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(327,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(327,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(328,32): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(329,32): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(330,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(330,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(333,5): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(333,110): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(351,5): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(351,112): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(369,5): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(369,114): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(387,5): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(387,114): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(405,5): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(405,114): warning C4554: '&': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(545,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(546,33): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(546,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(547,32): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(547,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(548,32): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(548,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(549,33): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(549,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(552,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(553,33): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(553,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(554,32): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(554,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(555,32): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(555,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(556,33): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(556,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(558,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(559,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(560,33): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(560,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(561,32): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(561,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(562,32): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(562,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(563,33): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(563,20): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(585,47): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(586,48): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(587,44): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(646,22): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(649,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(652,23): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(655,23): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(676,23): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(679,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(682,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(685,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(706,23): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(709,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(712,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(715,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(736,23): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(739,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(742,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(745,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(796,23): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(799,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(802,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(805,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(826,23): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(829,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(832,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(835,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(856,23): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(859,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(862,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(865,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(886,23): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(889,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(892,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(895,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(937,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(938,29): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(943,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(944,29): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(956,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(957,29): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(963,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(964,29): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(985,8): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(987,13): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(989,20): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(991,19): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(993,10): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(995,14): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(997,10): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(999,13): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1001,22): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1003,19): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1005,10): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1007,13): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1009,22): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1011,19): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1013,22): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1015,20): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1026,12): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1035,12): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1039,12): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1043,12): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1062,12): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1072,12): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1078,11): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ender\source\repos\Project2\Project2\Projem.cpp(1083,11): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Project2.vcxproj -> C:\Users\Ender\source\repos\Project2\Debug\EndercanYilmaz-UcakHelikopter.exe
